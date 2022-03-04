@@ -2,3 +2,17 @@ header{
     display:flex;
     justify-content:space-between;
 }
+ul{
+    display:flex;
+    justify-content:space-evenly;
+
+}
+nav{
+    width:60vw;
+
+}
+li{
+    list-style-type:none;
+}
+
+
